@@ -1,6 +1,6 @@
 import { BrowserRouter } from 'react-router-dom';
 
-//causes 354  build error with - Could not resolve "three"
+//causes 354  build error with - Could not resolve "three" asdaw
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from './components';
 
 const App = () => {
